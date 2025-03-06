@@ -7,26 +7,33 @@ Data latih ini adalah data dummy penjualan dari sebuah toko online. Data digener
 Kita akan belajar mengolah data tersebut dengan menggunakan [https://sqlitestudio.pl]
 
 ## Data
-Data terdiri dari data penjualan bulan januari sampai dengan desember 2021. Dan data kumpulan dari semua data penjualan tersebut.
+Data terdiri dari data dummy penjualan bulan januari sampai dengan desember 2021. Dan data kumpulan dari semua data penjualan tersebut.
 
-## Featured Engineering
+## Import data ke SQLite Studio
+- Buatlah sebuah database dengan nama `sales`
+- Buatlah sebuah tabel dengan nama `sales_data` dan import data dari file `All_Sales_2021.csv` ke dalam tabel tersebut.
+
+Catatan: Kamu bisa mencoba data bulanan terlebih dulu, jika sudah menguasai data bulanan, kamu bisa mencoba data kumulatif.
+
+## Data Cleaning/Preprocessing
 Data yang ada dalam data latih tersebut  masih mengandung beberapa kesalahan, seperti:
 - Data Kosong
 - Data yang tidak sesuai dengan data yang seharusnya
 - Format tanggal dan jam yang tidak siap untuk diolah.
 
-Kamu harus melakukan pembersihan dan penyesuaian terlebih dahulu agar data tersebut siap untuk diolah.
-- Menghapus Kolom Dengan Nilai NaN (Not a Number)
+Lalu lakukan pembersihan dan pemrosesan data tersebut agar data bisa diolah, dengan cara:
+- Menghapus data yang kosong
 - Menambahkan Kolom Kota
-- Menambah Kolom Provinsi
+- Menambahkan Kolom Provinsi
 - Menambahkan Kolom Bulan
 - Menambahkan Kolom Tanggal
 - Menambahkan Kolom Jam
+- Mengubah format tanggal dan jam menjadi format yang siap untuk diolah.
 
-
-Pengolahan bisa dilakukan dengan memanfaatkan View di SQLite
 
 ## Data Analysis
+
+Analisis data menggunakan SQL dan apa informasi yang bisa diambil dari data tersebut.
 
 - Menghitung total penjualan per bulan
 - Menghitung total penjualan per kota
