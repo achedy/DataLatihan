@@ -1,4 +1,4 @@
-# DATA LATIH SQLITE TRAINING
+# Data Latih Training SQLite
 
 ## About
 
