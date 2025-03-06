@@ -2,9 +2,9 @@
 
 ## About
 
-Data latih ini adalah data dummy penjualan dari sebuah toko online. Data digenerasi dari data generator di [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/Misc](KeithGalli Pandas-Data-Science-Tasks) yang sudah disesuaikan dengan kebutuhan.
+Data latih ini adalah data dummy penjualan dari sebuah toko online. Data digenerasi dari data generator di [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/Misc] yang sudah disesuaikan dengan kebutuhan.
 
-Kita akan belajar mengolah data tersebut dengan menggunakan [https://sqlitestudio.pl](SQLite Studio).
+Kita akan belajar mengolah data tersebut dengan menggunakan [https://sqlitestudio.pl]
 
 ## Data
 Data terdiri dari data penjualan bulan januari sampai dengan desember 2021. Dan data kumpulan dari semua data penjualan tersebut.
