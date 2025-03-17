@@ -2,7 +2,14 @@
 
 ## About
 
-Data latih ini adalah data dummy penjualan dari sebuah toko online. Data digenerasi dari data generator di [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/Misc] yang sudah disesuaikan dengan kebutuhan.
+Data latih ini adalah data dummy penjualan dari sebuah toko online. 
+
+Ada dua data yang disediakan 
+
+1. Data Customer: Data digenerasi menggunakan openAI, digunakan untuk data latihan dasar-dasar SQL.  
+2. Data Sales: Data digenerasi dari data generator di [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/Misc] yang sudah disesuaikan dengan kebutuhan.
+
+Catatan: Dua data diatas tidak saling berhubungan. Data Customer digunakan untuk belajar dasar SQL dan data sales digunakan untuk belajar analisis penjualan.
 
 Kita akan belajar mengolah data tersebut dengan menggunakan [https://sqlitestudio.pl]
 
