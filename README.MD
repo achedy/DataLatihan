@@ -17,8 +17,8 @@ Kita akan belajar mengolah data tersebut dengan menggunakan [https://sqlitestudi
 Data terdiri dari data dummy penjualan bulan januari sampai dengan desember 2021. Dan data kumpulan dari semua data penjualan tersebut.
 
 ## Import data ke SQLite Studio
-- Buatlah sebuah database dengan nama `sales`
-- Buatlah sebuah tabel dengan nama `sales_data` dan import data dari file `All_Sales_2021.csv` ke dalam tabel tersebut.
+- Buatlah sebuah database dengan nama misalnya `skcdata`
+- Buatlah sebuah tabel dengan nama `sales` dan import data dari file `All_Sales_2021.csv` ke dalam tabel tersebut.
 
 Catatan: Kamu bisa mencoba data bulanan terlebih dulu, jika sudah menguasai data bulanan, kamu bisa mencoba data kumulatif.
 
